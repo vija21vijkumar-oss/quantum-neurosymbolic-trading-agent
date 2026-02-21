@@ -1,0 +1,28 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+.Python
+env/
+venv/
+ENV/
+env.bak/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Environment
+*.env
+*.env.*
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Testing
+.pytest_cache/
+*.cover
+*.egg-info/
